@@ -1,0 +1,12 @@
+rootProject.name = "MyActivity"
+include ':app'
+include ':activitytest'
+include ':myappcascadestarttest'
+include ':myappcascadestarttest2'
+include ':activitylifecycletest'
+include ':uiwidgettest'
+include ':uilayouttest'
+include ':uicustomviews'
+include ':listviewtest'
+include ':recyclerviewtest'
+include ':uibestpractice'
